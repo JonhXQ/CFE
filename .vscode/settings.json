@@ -1,0 +1,15 @@
+{
+  "cSpell.words": [
+    "docutils",
+    "glew",
+    "gstreamer",
+    "kivy",
+    "kivymd",
+    "pygame",
+    "pygments",
+    "pypiwin",
+    "screenmanager",
+    "setuptools"
+  ],
+  "materialkv.pythonFile": "main.py"
+}
